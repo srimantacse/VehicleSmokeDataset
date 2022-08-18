@@ -1,0 +1,7 @@
+Data set contains 1000 images inclusing day and night.
+Augmentation: With blur (15x15), flip(H), 15 rot, -15rot, rain, fog
+
+Image size: 512x512
+Total 1000 images
+	---- WithoutPollution: 	500 
+	---- WithPollution: 	500
