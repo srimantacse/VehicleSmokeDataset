@@ -1,4 +1,4 @@
-#Dataset1 description
+# Dataset1 description
 Data set contains 3000 images including day and night.
 Augmentation used: With blur (15x15), flip(H), 15 rot, -15rot
 
@@ -8,7 +8,7 @@ Total 3000 images
 	---- WithPollution: 	1225
 
 
-#Dataset2 description
+# Dataset2 description
 Data set contains 1000 images inclusing day and night.
 Augmentation used: With blur (15x15), flip(H), 15 rot, -15rot, rain, fog
 
