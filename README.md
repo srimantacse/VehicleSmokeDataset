@@ -19,8 +19,8 @@ Below image augmentations have been used.
 1. blur operation with kernel (15x15), 
 2. flip operation with mode horizontal
 3. rotaion  +15 degree to -15 degree
-4. Rainy image generation
-5. Foggy image generation
+4. Rainy image generation using imgaug library
+5. Foggy image generation using imgaug library
 
 Image size: 512 x 512
 Total 1000 images
