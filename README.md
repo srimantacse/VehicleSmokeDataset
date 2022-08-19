@@ -10,7 +10,7 @@ Total 3000 images
 1. **WithoutPollution**: 	1775 
 2. **WithPollution**: 	    1225
 
-# Sample images
+# Sample pollutant vehicle images from Dataset 1
 <img width="150" height="75" src="samples/sample_1_1.jpg"/> <img width="150" height="75" src="samples/sample_1_2.jpg"/> <img width="150" height="75" src="samples/sample_1_3.jpg"/> <img width="150" height="75" src="samples/sample_1_4.jpg"/>
 
 # Dataset 2 description
@@ -28,8 +28,8 @@ Total 1000 images
 2. **WithPollution**: 	    500
 	
 	
-# Sample images
-<img width="300" height="150" src="samples/sample_2_1.png"/> <img width="300" height="150" src="samples/sample_2_2.png"/>
+# Sample pollutant vehicle images from Dataset 2
+<img width="150" height="75" src="samples/sample_2_1.png"/> <img width="150" height="75" src="samples/sample_2_2.png"/> <img width="150" height="75" src="samples/sample_2_3.png"/> <img width="150" height="75" src="samples/sample_2_4.png"/>
 	
 	
 # Citation
