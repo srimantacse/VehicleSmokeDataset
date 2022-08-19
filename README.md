@@ -11,8 +11,7 @@ Total 3000 images
 2. **WithPollution**: 	    1225
 
 # Sample images
-<img width="300" height="150" src="samples/sample_1_1.jpg"/>
-<img width="300" height="150" src="samples/sample_1_2.jpg"/>
+<img width="300" height="150" src="samples/sample_1_1.jpg"/> <img width="300" height="150" src="samples/sample_1_2.jpg"/>
 
 # Dataset 2 description
 Data set contains 1000 images inclusing day and night.
@@ -30,8 +29,7 @@ Total 1000 images
 	
 	
 # Sample images
-<img width="300" height="150" src="samples/sample_2_1.png"/>
-<img width="300" height="150" src="samples/sample_2_2.png"/>
+<img width="300" height="150" src="samples/sample_2_1.png"/> <img width="300" height="150" src="samples/sample_2_2.png"/>
 	
 	
 # Citation
