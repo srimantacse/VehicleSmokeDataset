@@ -6,7 +6,8 @@ Below image augmentations have been used.
 3. rotaion  +15 degree to -15 degree
 
 Image size: 224 x 224
-Total 3000 images
+
+Image count: 3000
 1. **WithoutPollution**: 	1775 
 2. **WithPollution**: 	    1225
 
@@ -23,7 +24,9 @@ Below image augmentations have been used.
 5. Foggy image generation using imgaug library
 
 Image size: 512 x 512
-Total 1000 images
+
+
+Image count: 1000
 1. **WithoutPollution**: 	500 
 2. **WithPollution**: 	    500
 	
